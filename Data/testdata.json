@@ -1,0 +1,23 @@
+{
+  "createObject": {
+    "name": "Laptop HP 840 G7",
+    "data": {
+      "year": 2022,
+      "price": 1250.5,
+      "CPU model": "Intel i7",
+      "Hard disk size": "512 GB"
+    }
+  },
+  "updateObject": {
+    "name": "Laptop HP 850 G9",
+    "data": {
+      "year": 2023,
+      "price": 1400.75
+    }
+  },
+  "patchObject": {
+    "data": {
+      "price": 1350.0
+    }
+  }
+}
