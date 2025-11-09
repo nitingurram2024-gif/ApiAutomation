@@ -26,7 +26,7 @@ It is built to be **reviewer-friendly**, with detailed inline comments and separ
 
 ---
 
-## Run Locally (Visual Studio 2017)
+## Run Locally (Visual Studio 2022)
 1. Open `ApiAutomation.sln` in **Visual Studio 2022**.  
 2. Restore NuGet packages:  
    - Go to **Tools → NuGet Package Manager → Package Manager Console**  
